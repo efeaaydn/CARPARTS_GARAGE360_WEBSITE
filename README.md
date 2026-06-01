@@ -1,6 +1,5 @@
-# 🔧 Garage360 — Online Oto Yedek Parça Mağazası
+# 🔧 Online Oto Yedek Parça Mağazası
 
-> KOÜ TBL304 Web Programlama Dersi Dönem Projesi  
 > Geliştirici: Efe Aydın
 
 ---
@@ -376,8 +375,6 @@ garage360/
 ## 👨‍💻 Geliştirici
 
 **Efe Aydın**  
-Kocaeli Üniversitesi — Bilgisayar Mühendisliği  
-TBL304 Web Programlama — 2025/2026 Bahar Dönemi
 
 ---
 
